@@ -1,14 +1,14 @@
 # EDtunnel
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/6Kmfi6HP/EDtunnel/refs/heads/main/image/logo.png" alt="edgetunnel" style="margin-bottom: -50px;">
+  <img src="https://raw.githubusercontent.com/FancyBurn/EDtunnel/refs/heads/main/image/logo.png" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
 EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。
 
 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
 
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/6Kmfi6HP/EDtunnel)
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/FancyBurn/EDtunnel)
 [![Telegram](https://img.shields.io/badge/Discuss-Telegram-blue.svg)](https://t.me/edtunnel)
 
 ## ✨ 特性 | Features
@@ -38,11 +38,11 @@ EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multi
 
 ### 在 Worker.dev 部署 | Deploy on Worker.dev
 
-1. 从[这里](https://github.com/6Kmfi6HP/EDtunnel/blob/main/_worker.js)复制 `_worker.js` 代码 | Copy `_worker.js` code from [here](https://github.com/6Kmfi6HP/EDtunnel/blob/main/_worker.js)
+1. 从[这里](https://github.com/FancyBurn/EDtunnel/blob/main/_worker.js)复制 `_worker.js` 代码 | Copy `_worker.js` code from [here](https://github.com/FancyBurn/EDtunnel/blob/main/_worker.js)
 
 2. 或者点击下方按钮一键部署 | Or click the button below to deploy directly:
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/6Kmfi6HP/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/FancyBurn/EDtunnel)
 
 ## ⚙️ 配置说明 | Configuration Guide
 
@@ -216,9 +216,9 @@ SOCKS5_RELAY=true
 ## 💬 获取帮助 | Get Help
 
 - Telegram 群组 | Telegram Group: [EDtunnel Group](https://t.me/edtunnel)
-- GitHub 仓库 | Repository: [EDtunnel](https://github.com/6Kmfi6HP/EDtunnel)
-- 问题反馈 | Issue Report: [创建新问题 | Create New Issue](https://github.com/6Kmfi6HP/EDtunnel/issues)
-- 功能建议 | Feature Request: [提交建议 | Submit Request](https://github.com/6Kmfi6HP/EDtunnel/discussions)
+- GitHub 仓库 | Repository: [EDtunnel](https://github.com/FancyBurn/EDtunnel)
+- 问题反馈 | Issue Report: [创建新问题 | Create New Issue](https://github.com/FancyBurn/EDtunnel/issues)
+- 功能建议 | Feature Request: [提交建议 | Submit Request](https://github.com/FancyBurn/EDtunnel/discussions)
 
 ## 📝 贡献指南 | Contributing
 
@@ -237,10 +237,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Star History
 
-<a href="https://star-history.com/#6Kmfi6HP/EDtunnel&Date">
+<a href="https://star-history.com/#FancyBurn/EDtunnel&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=6Kmfi6HP/EDtunnel&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=6Kmfi6HP/EDtunnel&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=6Kmfi6HP/EDtunnel&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FancyBurn/EDtunnel&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FancyBurn/EDtunnel&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FancyBurn/EDtunnel&type=Date" />
   </picture>
 </a>
